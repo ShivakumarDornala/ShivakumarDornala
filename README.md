@@ -1,7 +1,10 @@
 ## Hi there 👋
 
+I'm Shivakumar 😎, I specialise in crafting seamless, end-to-end solutions that deliver real impact.
+
+https://shivakumardev.vercel.app/
 <!--
-**ShivakumarDornala/ShivakumarDornala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://shivakumardev.vercel.app/**ShivakumarDornala/ShivakumarDornala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
