@@ -1,6 +1,8 @@
-# 🏄‍♂️ Forrest Knight
+# Hi! there
 
-**`Digital Craftsman`**
+**`Full-Stack Web Developer`**
+
+I'm Shivakumar 😎, I specialise in crafting seamless, end-to-end solutions that deliver real impact.
 
 I'm a software engineer, Linux distro hopper, Java apologist, and content creator at [ForrestKnight][youtube] (680k+ subscribers).
 
