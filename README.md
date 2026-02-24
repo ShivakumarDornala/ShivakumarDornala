@@ -1,10 +1,9 @@
-# Hi! there
+# Hi! there👋
 
 **`Full-Stack Web Developer`**
 
 I'm Shivakumar 😎, I specialise in crafting seamless, end-to-end solutions that deliver real impact.
 
-I'm a software engineer, Linux distro hopper, Java apologist, and content creator at [ForrestKnight][youtube] (680k+ subscribers).
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
