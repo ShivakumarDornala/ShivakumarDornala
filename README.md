@@ -3,6 +3,12 @@
 I'm Shivakumar 😎, I specialise in crafting seamless, end-to-end solutions that deliver real impact.
 
 https://shivakumardev.vercel.app/
+
+These days I’m focused on:
+
+-> React, TypeScript, Tailwind
+UI components with subtle motion
+Small, thoughtful projects with polish
 <!--
 https://shivakumardev.vercel.app/**ShivakumarDornala/ShivakumarDornala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
