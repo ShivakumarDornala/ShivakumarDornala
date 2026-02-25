@@ -19,9 +19,8 @@ I'm Shivakumar 😎, I specialise in crafting seamless, end-to-end solutions tha
 
 ## Front-End
 
-**_`Front-End`_**
+**_`HTML`_** **_`CSS`_** **_`JavaScript`_**
 
---> HTML CSS JavaScript
 
 ### 📺 Latest YouTube Videos
 
