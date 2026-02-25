@@ -17,96 +17,56 @@ I'm Shivakumar 😎, I specialise in crafting seamless, end-to-end solutions tha
 
 ### 🧰 Techstack and Tools
 
-<div style="display:flex; flex-wrap:nowrap; overflow-x:auto; gap:12px; align-items:center;">
-  <div style="text-align:center;">
-    <img src="images/html.png" alt="HTML" width="40" height="40" />
-    <p>HTML</p>
-  </div>
-  <div style="text-align:center;">
-    <img src="images/css.png" alt="CSS" width="40" height="40" />
-    <p>CSS</p>
-  </div>
-  <div style="text-align:center;">
-    <img src="images/javascript.png" alt="JavaScript" width="40" height="40" />
-    <p>JavaScript</p>
-  </div>
-  <div style="text-align:center;">
-    <img src="images/tailwind.png" alt="Tailwind" width="40" height="40" />
-    <p>Tailwind</p>
-  </div>
-  <div style="text-align:center;">
-    <img src="images/react-js.png" alt="React" width="40" height="40" />
-    <p>React</p>
-  </div>
-  <div style="text-align:center;">
-    <img src="images/redux.png" alt="Redux" width="40" height="40" />
-    <p>Redux</p>
-  </div>
-  <div style="text-align:center;">
-    <img src="images/java.png" alt="Java" width="40" height="40" />
-    <p>Java</p>
-  </div>
-  <div style="text-align:center;">
-    <img src="images/spring-boot.png" alt="Spring Boot" width="40" height="40" />
-    <p>Spring Boot</p>
-  </div>
-  <div style="text-align:center;">
-    <img src="images/mongodb.png" alt="MongoDB" width="40" height="40" />
-    <p>MongoDB</p>
-  </div>
-  <div style="text-align:center;">
-    <img src="images/mysql.png" alt="MySQL" width="40" height="40" />
-    <p>MySQL</p>
-  </div>
-  <div style="text-align:center;">
-    <img src="images/JWT.png" alt="JWT" width="40" height="40" />
-    <p>JWT</p>
-  </div>
-  <div style="text-align:center;">
-    <img src="images/rest-api.png" alt="REST API" width="40" height="40" />
-    <p>REST API</p>
-  </div>
-  <div style="text-align:center;">
-    <img src="images/postman.png" alt="Postman" width="40" height="40" />
-    <p>Postman</p>
-  </div>
-  <div style="text-align:center;">
-    <img src="images/Maven.png" alt="Maven" width="40" height="40" />
-    <p>Maven</p>
-  </div>
-  <div style="text-align:center;">
-    <img src="images/git.png" alt="Git" width="40" height="40" />
-    <p>Git</p>
-  </div>
-  <div style="text-align:center;">
-    <img src="images/git-hub.png" alt="GitHub" width="40" height="40" />
-    <p>GitHub</p>
-  </div>
-  <div style="text-align:center;">
-    <img src="images/microservices.png" alt="Microservices" width="40" height="40" />
-    <p>Microservices</p>
-  </div>
-  <div style="text-align:center;">
-    <img src="images/Vercel.png" alt="Vercel" width="40" height="40" />
-    <p>Vercel</p>
-  </div>
-  <div style="text-align:center;">
-    <img src="images/netlify.png" alt="Netlify" width="40" height="40" />
-    <p>Netlify</p>
-  </div>
-  <div style="text-align:center;">
-    <img src="images/vs-code.png" alt="VS Code" width="40" height="40" />
-    <p>VS Code</p>
-  </div>
-  <div style="text-align:center;">
-    <img src="images/intellij.png" alt="IntelliJ" width="40" height="40" />
-    <p>IntelliJ</p>
-  </div>
-  <div style="text-align:center;">
-    <img src="images/Windows.png" alt="Windows" width="40" height="40" />
-    <p>Windows</p>
-  </div>
-</div>
+<table>
+  <tr>
+    <td><img src="images/html.png" alt="HTML" width="40"/></td>
+    <td><img src="images/css.png" alt="CSS" width="40"/></td>
+    <td><img src="images/javascript.png" alt="JavaScript" width="40"/></td>
+    <td><img src="images/tailwind.png" alt="Tailwind" width="40"/></td>
+    <td><img src="images/react-js.png" alt="React" width="40"/></td>
+    <td><img src="images/redux.png" alt="Redux" width="40"/></td>
+    <td><img src="images/java.png" alt="Java" width="40"/></td>
+    <td><img src="images/spring-boot.png" alt="Spring Boot" width="40"/></td>
+    <td><img src="images/mongodb.png" alt="MongoDB" width="40"/></td>
+    <td><img src="images/mysql.png" alt="MySQL" width="40"/></td>
+    <td><img src="images/JWT.png" alt="JWT" width="40"/></td>
+    <td><img src="images/rest-api.png" alt="REST API" width="40"/></td>
+    <td><img src="images/postman.png" alt="Postman" width="40"/></td>
+    <td><img src="images/Maven.png" alt="Maven" width="40"/></td>
+    <td><img src="images/git.png" alt="Git" width="40"/></td>
+    <td><img src="images/git-hub.png" alt="GitHub" width="40"/></td>
+    <td><img src="images/microservices.png" alt="Microservices" width="40"/></td>
+    <td><img src="images/Vercel.png" alt="Vercel" width="40"/></td>
+    <td><img src="images/netlify.png" alt="Netlify" width="40"/></td>
+    <td><img src="images/vs-code.png" alt="VS Code" width="40"/></td>
+    <td><img src="images/intellij.png" alt="IntelliJ" width="40"/></td>
+    <td><img src="images/Windows.png" alt="Windows" width="40"/></td>
+  </tr>
+  <tr>
+    <td>HTML</td>
+    <td>CSS</td>
+    <td>JavaScript</td>
+    <td>Tailwind</td>
+    <td>React</td>
+    <td>Redux</td>
+    <td>Java</td>
+    <td>Spring Boot</td>
+    <td>MongoDB</td>
+    <td>MySQL</td>
+    <td>JWT</td>
+    <td>REST API</td>
+    <td>Postman</td>
+    <td>Maven</td>
+    <td>Git</td>
+    <td>GitHub</td>
+    <td>Microservices</td>
+    <td>Vercel</td>
+    <td>Netlify</td>
+    <td>VS Code</td>
+    <td>IntelliJ</td>
+    <td>Windows</td>
+  </tr>
+</table>
 
 ### 📺 Latest YouTube Videos
 
