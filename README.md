@@ -37,9 +37,13 @@ I'm Shivakumar 😎, I specialise in crafting seamless, end-to-end solutions tha
 
 **_`VS Code`_** **_`IntelliJ IDEA`_** **_`Windows OS`_**
 
-### 📺 Latest YouTube Videos
+### 📺 Some Stuff I Build
 
 <!-- BEGIN YOUTUBE-CARDS -->
+
+[website]: https://fkcodes.com
+[youtube]: https://youtube.com/fknight
+[x]: https://x.com/forrestpknight
 
 [![Coding with Opus 4.6 and Codex 5.3 is actually insane](https://ytcards.demolab.com/?id=Q2QmQTNA7vs&title=Coding+with+Opus+4.6+and+Codex+5.3+is+actually+insane&lang=en&timestamp=1770682800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1334 "Coding with Opus 4.6 and Codex 5.3 is actually insane")](https://www.youtube.com/watch?v=Q2QmQTNA7vs)
 [![I Can't Believe Rust is Replacing Java](https://ytcards.demolab.com/?id=-8JOlCvA4Qs&title=I+Can%27t+Believe+Rust+is+Replacing+Java&lang=en&timestamp=1770145201&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=465 "I Can't Believe Rust is Replacing Java")](https://www.youtube.com/watch?v=-8JOlCvA4Qs)
