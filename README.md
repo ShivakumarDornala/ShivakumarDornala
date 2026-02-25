@@ -17,6 +17,8 @@ I'm Shivakumar 😎, I specialise in crafting seamless, end-to-end solutions tha
 
 ### 🧰 Techstack and Tools
 
+**_`Fron-End`_**
+
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
