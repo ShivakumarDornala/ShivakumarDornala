@@ -4,14 +4,7 @@
 
 I'm Shivakumar 😎, I specialise in crafting seamless, end-to-end solutions that deliver real impact.
 
-   <p align="left">
-      <a href="https://www.linkedin.com/in/contactsdsk/" target="_blank">
-         <img alt="youtube subscribers" title="My LinkedIn" src="images/linkedin.png"/></a>
-      <a href="https://www.linkedin.com/in/contactsdsk/" target="_blank">
-         <img alt="youtube subscribers" title="My Dribble" src="images/Dribble.png"/></a>
-      <a href="https://www.linkedin.com/in/contactsdsk/" target="_blank">
-         <img alt="youtube subscribers" title="My Behence" src="images/Behence.png"/></a>      
-   </p>
+My Website [https://shivakumardev.vercel.app/]
 
 ---
 
