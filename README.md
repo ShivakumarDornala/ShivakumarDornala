@@ -18,92 +18,92 @@ I'm Shivakumar 😎, I specialise in crafting seamless, end-to-end solutions tha
 ### 🧰 Techstack and Tools
 
     <div class="card flex flex-col items-center justify-center">
-          <img src="/images/html.png" alt="HTML">
-          <p class="text-[#fefae0] text-sm mt-2 text-center">HTML</p>
+          <img src="/images/html.png" alt="HTML" width="40" />
+          <span>HTML</span>
         </div>
         <div class="card flex flex-col items-center justify-center">
-          <img src="/images/css.png" alt="CSS">
-          <p class="text-[#fefae0] text-sm mt-2 text-center">CSS</p>
+          <img src="/images/css.png" alt="CSS" width="40" />
+          <span>CSS</span>
         </div>
         <div class="card flex flex-col items-center justify-center">
-          <img src="/images/javascript.png" alt="JavaScript">
-          <p class="text-[#fefae0] text-sm mt-2 text-center">JavaScript</p>
+          <img src="/images/javascript.png" alt="JavaScript" width="40" />
+          <span>JavaScript</span>
         </div>
         <div class="card flex flex-col items-center justify-center">
-          <img src="/images/tailwind.png" alt="Tailwind">
-          <p class="text-[#fefae0] text-sm mt-2 text-center">Tailwind</p>
+          <img src="/images/tailwind.png" alt="Tailwind" width="40" />
+          <span>Tailwind</span>
         </div>
         <div class="card flex flex-col items-center justify-center">
-          <img src="/images/react-js.png" alt="React">
-          <p class="text-[#fefae0] text-sm mt-2 text-center">React</p>
+          <img src="/images/react-js.png" alt="React" width="40" />
+          <span>React</span>
         </div>
         <div class="card flex flex-col items-center justify-center">
-          <img src="/images/redux.png" alt="Redux">
-          <p class="text-[#fefae0] text-sm mt-2 text-center">Redux</p>
+          <img src="/images/redux.png" alt="Redux" width="40" />
+          <span>Redux</span>
         </div>
         <div class="card flex flex-col items-center justify-center">
-          <img src="/images/java.png" alt="Java">
-          <p class="text-[#fefae0] text-sm mt-2 text-center">Java</p>
+          <img src="/images/java.png" alt="Java" width="40" />
+          <span>Java</span>
         </div>
         <div class="card flex flex-col items-center justify-center">
-          <img src="/images/spring-boot.png" alt="Spring Boot">
-          <p class="text-[#fefae0] text-sm mt-2 text-center">Spring Boot</p>
+          <img src="/images/spring-boot.png" alt="Spring Boot" width="40" />
+          <span>Spring Boot</span>
         </div>
         <div class="card flex flex-col items-center justify-center">
-          <img src="/images/mongodb.png" alt="MongoDB">
-          <p class="text-[#fefae0] text-sm mt-2 text-center">MongoDB</p>
+          <img src="/images/mongodb.png" alt="MongoDB" width="40" />
+          <span>MongoDB</span>
         </div>
         <div class="card flex flex-col items-center justify-center">
-          <img src="/images/mysql.png" alt="MySQL">
-          <p class="text-[#fefae0] text-sm mt-2 text-center">MySQL</p>
+          <img src="/images/mysql.png" alt="MySQL" width="40" />
+          <span>MySQL</span>
         </div>
         <div class="card flex flex-col items-center justify-center">
-          <img src="/images/JWT.png" alt="JWT">
-          <p class="text-[#fefae0] text-sm mt-2 text-center">JWT</p>
+          <img src="/images/JWT.png" alt="JWT" width="40" />
+          <span>JWT</span>
         </div>
         <div class="card flex flex-col items-center justify-center">
-          <img src="/images/rest api.png" alt="REST API">
-          <p class="text-[#fefae0] text-sm mt-2 text-center">REST API</p>
+          <img src="/images/rest api.png" alt="REST API" width="40" />
+          <span>REST API</span>
         </div>
         <div class="card flex flex-col items-center justify-center">
-          <img src="/images/postman.png" alt="Postman">
-          <p class="text-[#fefae0] text-sm mt-2 text-center">Postman</p>
+          <img src="/images/postman.png" alt="Postman" width="40" />
+          <span>Postman</span>
         </div>
         <div class="card flex flex-col items-center justify-center">
-          <img src="/images/Maven.png" alt="Maven">
-          <p class="text-[#fefae0] text-sm mt-2 text-center">Maven</p>
+          <img src="/images/Maven.png" alt="Maven" width="40" />
+          <span>Maven</span>
         </div>
         <div class="card flex flex-col items-center justify-center">
-          <img src="/images/git.png" alt="Git">
-          <p class="text-[#fefae0] text-sm mt-2 text-center">Git</p>
+          <img src="/images/git.png" alt="Git" width="40" />
+          <span>Git</span>
         </div>
         <div class="card flex flex-col items-center justify-center">
-          <img src="/images/git-hub.png" alt="GitHub">
-          <p class="text-[#fefae0] text-sm mt-2 text-center">GitHub</p>
+          <img src="/images/git-hub.png" alt="GitHub" width="40" />
+          <span>GitHub</span>
         </div>
         <div class="card flex flex-col items-center justify-center">
-          <img src="/images/microservices.png" alt="Microservices">
-          <p class="text-[#fefae0] text-sm mt-2 text-center">Microservices</p>
+          <img src="/images/microservices.png" alt="Microservices" width="40" />
+          <span>Microservices</span>
         </div>
         <div class="card flex flex-col items-center justify-center">
-          <img src="/images/Vercel.png" alt="Vercel">
-          <p class="text-[#fefae0] text-sm mt-2 text-center">Vercel</p>
+          <img src="/images/Vercel.png" alt="Vercel" width="40" />
+          <span>Vercel</span>
         </div>
         <div class="card flex flex-col items-center justify-center">
-          <img src="/images/netlify.png" alt="Netlify">
-          <p class="text-[#fefae0] text-sm mt-2 text-center">Netlify</p>
+          <img src="/images/netlify.png" alt="Netlify" width="40" />
+          <span>Netlify</span>
         </div>
         <div class="card flex flex-col items-center justify-center">
-          <img src="/images/vs-code.png" alt="VS Code">
-          <p class="text-[#fefae0] text-sm mt-2 text-center">VS Code</p>
+          <img src="/images/vs-code.png" alt="VS Code" width="40" />
+          <span>VS Code</span>
         </div>
         <div class="card flex flex-col items-center justify-center">
-          <img src="/images/intellij.png" alt="IntelliJ">
-          <p class="text-[#fefae0] text-sm mt-2 text-center">IntelliJ</p>
+          <img src="/images/intellij.png" alt="IntelliJ" width="40" />
+          <span>IntelliJ</span>
         </div>
         <div class="card flex flex-col items-center justify-center">
-          <img src="/images/Windows.png" alt="Windows">
-          <p class="text-[#fefae0] text-sm mt-2 text-center">Windows</p>
+          <img src="/images/Windows.png" alt="Windows" width="40" />
+          <span>Windows</span>
         </div>
 
 ### 📺 Latest YouTube Videos
