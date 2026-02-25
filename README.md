@@ -32,8 +32,6 @@ My Website: [https://shivakumardev.vercel.app/]
 
 ### 📺 Some Stuff I Build
 
-https://shivakumardev.vercel.app/
-
 <!-- BEGIN YOUTUBE-CARDS -->
 
 [website]: https://fkcodes.com
