@@ -17,94 +17,11 @@ I'm Shivakumar 😎, I specialise in crafting seamless, end-to-end solutions tha
 
 ### 🧰 Techstack and Tools
 
-    <div class="card flex flex-col items-center justify-center">
-          <img src="/images/html.png" alt="HTML" width="40" />
-          <span>HTML</span>
-        </div>
-        <div class="card flex flex-col items-center justify-center">
-          <img src="/images/css.png" alt="CSS" width="40" />
-          <span>CSS</span>
-        </div>
-        <div class="card flex flex-col items-center justify-center">
-          <img src="/images/javascript.png" alt="JavaScript" width="40" />
-          <span>JavaScript</span>
-        </div>
-        <div class="card flex flex-col items-center justify-center">
-          <img src="/images/tailwind.png" alt="Tailwind" width="40" />
-          <span>Tailwind</span>
-        </div>
-        <div class="card flex flex-col items-center justify-center">
-          <img src="/images/react-js.png" alt="React" width="40" />
-          <span>React</span>
-        </div>
-        <div class="card flex flex-col items-center justify-center">
-          <img src="/images/redux.png" alt="Redux" width="40" />
-          <span>Redux</span>
-        </div>
-        <div class="card flex flex-col items-center justify-center">
-          <img src="/images/java.png" alt="Java" width="40" />
-          <span>Java</span>
-        </div>
-        <div class="card flex flex-col items-center justify-center">
-          <img src="/images/spring-boot.png" alt="Spring Boot" width="40" />
-          <span>Spring Boot</span>
-        </div>
-        <div class="card flex flex-col items-center justify-center">
-          <img src="/images/mongodb.png" alt="MongoDB" width="40" />
-          <span>MongoDB</span>
-        </div>
-        <div class="card flex flex-col items-center justify-center">
-          <img src="/images/mysql.png" alt="MySQL" width="40" />
-          <span>MySQL</span>
-        </div>
-        <div class="card flex flex-col items-center justify-center">
-          <img src="/images/JWT.png" alt="JWT" width="40" />
-          <span>JWT</span>
-        </div>
-        <div class="card flex flex-col items-center justify-center">
-          <img src="/images/rest api.png" alt="REST API" width="40" />
-          <span>REST API</span>
-        </div>
-        <div class="card flex flex-col items-center justify-center">
-          <img src="/images/postman.png" alt="Postman" width="40" />
-          <span>Postman</span>
-        </div>
-        <div class="card flex flex-col items-center justify-center">
-          <img src="/images/Maven.png" alt="Maven" width="40" />
-          <span>Maven</span>
-        </div>
-        <div class="card flex flex-col items-center justify-center">
-          <img src="/images/git.png" alt="Git" width="40" />
-          <span>Git</span>
-        </div>
-        <div class="card flex flex-col items-center justify-center">
-          <img src="/images/git-hub.png" alt="GitHub" width="40" />
-          <span>GitHub</span>
-        </div>
-        <div class="card flex flex-col items-center justify-center">
-          <img src="/images/microservices.png" alt="Microservices" width="40" />
-          <span>Microservices</span>
-        </div>
-        <div class="card flex flex-col items-center justify-center">
-          <img src="/images/Vercel.png" alt="Vercel" width="40" />
-          <span>Vercel</span>
-        </div>
-        <div class="card flex flex-col items-center justify-center">
-          <img src="/images/netlify.png" alt="Netlify" width="40" />
-          <span>Netlify</span>
-        </div>
-        <div class="card flex flex-col items-center justify-center">
-          <img src="/images/vs-code.png" alt="VS Code" width="40" />
-          <span>VS Code</span>
-        </div>
-        <div class="card flex flex-col items-center justify-center">
-          <img src="/images/intellij.png" alt="IntelliJ" width="40" />
-          <span>IntelliJ</span>
-        </div>
-        <div class="card flex flex-col items-center justify-center">
-          <img src="/images/Windows.png" alt="Windows" width="40" />
-          <span>Windows</span>
-        </div>
+| ![HTML](images/html.png) | ![CSS](images/css.png) | ![JS](images/javascript.png) |
+| ------------------------ | ---------------------- | ---------------------------- |
+| HTML                     | CSS                    | JavaScript                   |
+
+<!-- repeat for other tools… -->
 
 ### 📺 Latest YouTube Videos
 
