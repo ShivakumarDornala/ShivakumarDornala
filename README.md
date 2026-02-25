@@ -17,7 +17,7 @@ I'm Shivakumar 😎, I specialise in crafting seamless, end-to-end solutions tha
 
 ### 🧰 Techstack and Tools
 
-<div style="display:flex;  gap:12px; align-items:center;">
+<div style="display:flex; flex-wrap:nowrap; overflow-x:auto; gap:12px; align-items:center;">
   <div style="text-align:center;">
     <img src="images/html.png" alt="HTML" width="40" height="40" />
     <p>HTML</p>
