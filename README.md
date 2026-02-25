@@ -17,10 +17,9 @@ I'm Shivakumar 😎, I specialise in crafting seamless, end-to-end solutions tha
 
 ### 🧰 Techstack and Tools
 
-## Front-End
+## <span style="color:#0066cc">Front-End</span>
 
 **_`HTML`_** **_`CSS`_** **_`JavaScript`_**
-
 
 ### 📺 Latest YouTube Videos
 
