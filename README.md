@@ -1,4 +1,4 @@
-# Hi! there👋
+# Hi! there <img src="https://iconscout.com/lottie-animation/waving-hand-animation_5203892" width="25"/>
 
 **`Full-Stack Web Developer`**
 
