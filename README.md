@@ -39,3 +39,11 @@ My Website: https://shivakumardev.vercel.app/
 - [Blox](https://github.com/mirayatech/Anime-Scene-Gallery) - An interactive anime scene gallery with hover animations and dynamic transitions.
 - [DSK-Portfolio](https://github.com/mirayatech/NinjaSketch) - Excalidraw clone built with React and TypeScript
 - [Myntra-Clone](https://github.com/mirayatech/halloween-cat-ghost) - An animated Halloween scene featuring a cat watching a playful ghost through a window
+
+---
+
+**More About Me:**
+
+- I don’t like coffee or tea
+- Demon Slayer is my favorite anime
+- **Hobbies:** anime & gym
