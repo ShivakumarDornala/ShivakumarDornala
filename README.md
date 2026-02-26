@@ -4,7 +4,7 @@
 
 I'm Shivakumar 😎, I specialise in crafting seamless, end-to-end solutions that deliver real impact.
 
-My Website: [**Shivakumar**](https://shivakumardev.vercel.app/)
+My Website: https://shivakumardev.vercel.app/
 
 ---
 
