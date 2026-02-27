@@ -44,6 +44,6 @@ My Website: https://shivakumardev.vercel.app/
 
 **More About Me:**
 
-- I don’t like coffee or tea
-- Demon Slayer is my favorite anime
+- I Like to do Coding 
+- A
 - **Hobbies:** anime & gym
