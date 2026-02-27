@@ -46,4 +46,4 @@ My Website: https://shivakumardev.vercel.app/
 
 - I Like to do Coding 
 - Cooking is My Passion
-- **Hobbies:** anime & gym
+- **Hobbies:** Gym & 
