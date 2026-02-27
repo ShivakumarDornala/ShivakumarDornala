@@ -44,7 +44,7 @@ My Website: https://shivakumardev.vercel.app/
 
 **More About Me:**
 
-- I Like to do Coding
+- I like coding.
 - Cooking is My Passion
 - I Watch Podcasts Which Will Teach New Things
-- **Hobbies:** Gym &
+- **Hobbies:** Gym
