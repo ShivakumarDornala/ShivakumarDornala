@@ -10,7 +10,7 @@ My Website: https://shivakumardev.vercel.app/
 
 ## 🧰 Techstack and Tools
 
-###  Front-End
+### 🔵 Front-End
 
 **_`HTML`_** **_`CSS`_** **_`JavaScript`_** **_`Tailwind CSS`_** **_`React`_** **_`Redux`_**
 
