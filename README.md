@@ -22,7 +22,7 @@ My Website: https://shivakumardev.vercel.app/
 
 **_`MySql`_** **_`Mongo DB`_**
 
-###  DevOps / Deployment
+### 🟢 DevOps / Deployment
 
 **_`Git`_** **_`GitHub`_** **_`Vercel`_** **_`Netlify`_** **_`Maven`_**
 
