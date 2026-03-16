@@ -12,7 +12,7 @@ My Website: https://shivakumardev.vercel.app/
 
 ### 🔵 Front-End
 
-<p align="left">
+<p align="left" style="display:flex; flex-wrap:wrap; gap:10px;">
 
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" width="50" height="50"/>
@@ -25,7 +25,7 @@ My Website: https://shivakumardev.vercel.app/
 
 ### 🟣 Back-End
 
-<p align="left">
+<p align="left" style="display:flex; flex-wrap:wrap; gap:10px;">
 
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" width="50" height="50"/>
@@ -38,7 +38,7 @@ My Website: https://shivakumardev.vercel.app/
 
 ### 🟡 Databases
 
-<p align="left">
+<p align="left" style="display:flex; flex-wrap:wrap; gap:10px;">
 
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" width="50" height="50"/>
@@ -47,7 +47,7 @@ My Website: https://shivakumardev.vercel.app/
 
 ### 🟢 DevOps / Deployment
 
-<p align="left">
+<p align="left" style="display:flex; flex-wrap:wrap; gap:10px;">
 
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" width="50" height="50"/>
@@ -56,7 +56,7 @@ My Website: https://shivakumardev.vercel.app/
 
 ### ⚫ Tools
 
-<p align="left">
+<p align="left" style="display:flex; flex-wrap:wrap; gap:10px;">
 
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/maven.png" width="50" height="50"/>
