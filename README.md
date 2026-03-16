@@ -10,7 +10,15 @@ My Website: https://shivakumardev.vercel.app/
 
 ## 🧰 Techstack and Tools
 
-### 🔵 Front-End
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" width="40" height="40"/>
+
+</p>
+
+https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png
+
+<!-- ### 🔵 Front-End
 
 🏗️ 🎨 🟨 🌊 ⚛️ 🔄
 
@@ -28,7 +36,7 @@ My Website: https://shivakumardev.vercel.app/
 
 ### 🟠 Development Tools / Environment
 
-💻 🧠 🪟
+💻 🧠 🪟 -->
 
 ---
 
