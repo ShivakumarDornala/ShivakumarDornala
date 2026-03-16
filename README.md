@@ -48,6 +48,8 @@ My Website: https://shivakumardev.vercel.app/
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" width="50" height="50"/>
 
+</p>
+
 ### 🔵 Front-End
 
 **_`HTML`_** **_`CSS`_** **_`JavaScript`_** **_`Tailwind CSS`_** **_`React`_** **_`Redux`_**
