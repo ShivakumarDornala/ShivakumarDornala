@@ -10,9 +10,9 @@ My Website: https://shivakumardev.vercel.app/
 
 ## 🧰 Techstack and Tools
 
-<p align="left">
-
 ### 🔵 Front-End
+
+<p align="left">
 
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" width="50" height="50"/>
@@ -20,6 +20,8 @@ My Website: https://shivakumardev.vercel.app/
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redux.png" width="50" height="50"/>
+
+</p>
 
 ### 🟣 Back-End
 
