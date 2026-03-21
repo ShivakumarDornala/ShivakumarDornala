@@ -1,6 +1,6 @@
 # Hi! there👋
 
-**`Full-Stack Web Developer`**
+##Full-Stack Web Developer
 
 I'm Shivakumar 😎, I specialise in crafting seamless, end-to-end solutions that deliver real impact.
 
