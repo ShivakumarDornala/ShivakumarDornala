@@ -10,7 +10,7 @@ I'm Shivakumar 😎, I specialise in crafting seamless, end-to-end solutions tha
 
 ## 🧰 Techstack and Tools
 
-### 🔵 Front-End
+## 🔵 Front-End
 
 <p align="left" style="display:flex; flex-wrap:wrap; gap:10px;">
 
