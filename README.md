@@ -25,7 +25,7 @@ I'm Shivakumar 😎, I specialise in crafting seamless, end-to-end solutions tha
 
 ### 🟣 Back-End
 
-<p align="left" style="display:flex; flex-wrap:wrap; gap:10px;">
+<p align="left" style="display:flex;  gap:10px;">
 
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" width="50" height="50"/>
