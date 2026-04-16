@@ -21,8 +21,6 @@ I'm Shivakumar 😎, I specialise in crafting seamless, end-to-end solutions tha
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redux.png" width="50"/>
 </p>
 
----
-
 ### 🟣 Back-End
 
 <p align="left">
@@ -35,8 +33,6 @@ I'm Shivakumar 😎, I specialise in crafting seamless, end-to-end solutions tha
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongoose.png" width="50"/>
 </p>
 
----
-
 ### 🟡 Databases
 
 <p align="left">
@@ -44,16 +40,12 @@ I'm Shivakumar 😎, I specialise in crafting seamless, end-to-end solutions tha
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" width="50"/>
 </p>
 
----
-
 ### 🟢 DevOps / Deployment
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" width="50"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" width="50"/>
 </p>
-
----
 
 ### ⚫ Tools
 
