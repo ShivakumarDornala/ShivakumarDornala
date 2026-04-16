@@ -90,4 +90,3 @@ I'm Shivakumar 😎, I specialise in crafting seamless, end-to-end solutions tha
 - I watch podcasts that teach me new things.
 - **Hobbies:** Gym & Watching Movies
 
-c
