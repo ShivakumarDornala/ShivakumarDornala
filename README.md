@@ -72,7 +72,7 @@ I'm Shivakumar 😎, I specialise in crafting seamless, end-to-end solutions tha
 
 ---
 
-## 📺 Projects that I Build
+## 📺 Projects That I Build
 
 - [EduTrack](#) - A self portrait that blinks and is fully customizable with variables.
 - [Lost&Find](https://github.com/mirayatech/image-card-stack) - A draggable card stack component with smooth animations and TypeScript generics.
