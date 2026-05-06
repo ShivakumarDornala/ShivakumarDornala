@@ -112,7 +112,7 @@ UI-focused e-commerce clone with animations
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel"/>
   </a>
   <a href="mailto:your-email@example.com">
-    <!-- <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/> -->
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
