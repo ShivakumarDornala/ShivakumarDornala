@@ -92,8 +92,6 @@ UI-focused e-commerce clone with animations
 
 ---
 
----
-
 ## ⚡ Fun Side
 
 - 🍳 Cooking is my creative space
