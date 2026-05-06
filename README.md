@@ -84,8 +84,6 @@ UI-focused e-commerce clone with animations
 
 ---
 
----
-
 ## 🏆 Achievements & Focus
 
 - 🧩 Building **end-to-end full-stack systems**
