@@ -30,7 +30,7 @@
 ### ⚙️ Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,mongodb,postman" />
 </p>
 
 ### 🗄️ Databases
