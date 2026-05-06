@@ -84,17 +84,6 @@ UI-focused e-commerce clone with animations
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivakumar&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivakumar&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivakumar&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 ## 🏆 Achievements & Focus
@@ -104,17 +93,6 @@ UI-focused e-commerce clone with animations
 - 🧠 Strong grasp of **core JavaScript + backend architecture**
 
 ---
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://shivakumardev.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel"/>
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
-  </a>
-</p>
 
 ---
 
