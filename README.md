@@ -1,79 +1,132 @@
-# Hi! there👋
+<h1 align="center">Hi 👋, I'm Shivakumar</h1>
+<h3 align="center">🚀 Full-Stack Software Engineer | Building Scalable & Impactful Web Apps</h3>
 
-# Full-Stack Software Engineer
-
-I'm Shivakumar 😎, I specialise in crafting seamless, end-to-end solutions that deliver real impact.
-
-[Portfolio-DSK](https://shivakumardev.vercel.app/) - This portfolio highlights my projects, technical skills, and other accomplishments.
-
----
-
-## 🧰 Techstack and Tools
-
-### 🔵 Front-End
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" width="50"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" width="50"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" width="50"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" width="50"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" width="50"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redux.png" width="50"/>
-</p>
-
-### 🟣 Back-End
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" width="50"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" width="50"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" width="50"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" width="50"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/hibernate.png" width="50"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" width="50"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongoose.png" width="50"/>
-</p>
-
-### 🟡 Databases
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" width="50"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" width="50"/>
-</p>
-
-### 🟢 DevOps / Deployment
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" width="50"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" width="50"/>
-</p>
-
-### ⚫ Tools
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" width="50"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/maven.png" width="50"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/netlify.png" width="50"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vercel.png" width="50"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/npm.png" width="50"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png" width="50"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" width="50"/>
+<p align="center">
+  <a href="https://shivakumardev.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=shivakumar&label=Profile%20views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
 
-## 📺 Projects That I Build
+## 🧠 About Me
 
-- [EduTrack](#) - A self portrait that blinks and is fully customizable with variables.
-- [Lost&Find](https://github.com/mirayatech/image-card-stack) - A draggable card stack component with smooth animations and TypeScript generics.
-- [Blox](https://github.com/mirayatech/Anime-Scene-Gallery) - An interactive anime scene gallery with hover animations and dynamic transitions.
-- [DSK-Portfolio](https://github.com/mirayatech/NinjaSketch) - Excalidraw clone built with React and TypeScript
-- [Myntra-Clone](https://github.com/mirayatech/halloween-cat-ghost) - An animated Halloween scene featuring a cat watching a playful ghost through a window
+- 💻 Full-stack developer focused on **performance & scalability**
+- ⚡ Strong in **React, Node.js, and Spring Boot ecosystems**
+- 🎯 I build **real-world applications**, not just demos
+- 📈 Continuously improving through **projects & learning**
 
 ---
 
-**More About Me:**
+## 🚀 Tech Stack
 
-- I like coding.
-- Cooking is my passion.
-- I watch podcasts that teach me new things.
-- **Hobbies:** Gym & Watching Movies
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 🛠 Tools & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,maven,vercel,netlify,npm,vscode,idea" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 EduTrack
+
+> Smart education tracking system with scalable architecture  
+> 🚧 _Currently improving_
+
+---
+
+### 🔹 Lost & Find
+
+Draggable card stack with smooth animations and TS generics  
+🔗 https://github.com/mirayatech/image-card-stack
+
+---
+
+### 🔹 Blox
+
+Interactive anime gallery with modern UI/UX transitions  
+🔗 https://github.com/mirayatech/Anime-Scene-Gallery
+
+---
+
+### 🔹 DSK Portfolio
+
+Excalidraw-inspired drawing app built using React + TypeScript  
+🔗 https://github.com/mirayatech/NinjaSketch
+
+---
+
+### 🔹 Myntra Clone
+
+UI-focused e-commerce clone with animations  
+🔗 https://github.com/mirayatech/halloween-cat-ghost
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivakumar&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivakumar&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivakumar&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Achievements & Focus
+
+- 🧩 Building **end-to-end full-stack systems**
+- ⚡ Writing **clean, maintainable, scalable code**
+- 🧠 Strong grasp of **core JavaScript + backend architecture**
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://shivakumardev.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel"/>
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Side
+
+- 🍳 Cooking is my creative space
+- 🎧 Learning through podcasts
+- 🏋️ Gym & fitness mindset
+- 🎬 Movies for inspiration
+
+---
+
+<p align="center">
+  ⭐️ *"Code. Build. Improve. Repeat."*
+</p>
