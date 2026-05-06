@@ -1,34 +1,4 @@
-<!-- ==================== HEADER ==================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Shivakumar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</p>
-
 <h1 align="center">Hi 👋, I'm Shivakumar</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Building+Scalable+Applications;React+%7C+Node+%7C+Spring+Boot;Clean+Code+%2B+Real+Impact" />
-</p>
-
-<p align="center">
-  <a href="https://shivakumardev.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Explore-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=shivakumar&style=for-the-badge&color=blueviolet"/>
-</p>
-
----
-
-<!-- ==================== ABOUT ==================== -->
-
-## 🧠 About Me
-
-```diff
-+ Full-stack engineer focused on performance & scalability
-+ Strong in React, Node.js, and Spring Boot ecosystems
-+ Building real-world applications with production mindset
-! Constantly improving through projects & system design
-
-<!-- <h1 align="center">Hi 👋, I'm Shivakumar</h1>
 <h3 align="center">🚀 Full-Stack Software Engineer | Building Scalable & Impactful Web Apps</h3>
 
 <p align="center">
@@ -81,35 +51,35 @@
 
 ### 🔹 EduTrack
 
-> Smart education tracking system with scalable architecture
+> Smart education tracking system with scalable architecture  
 > 🚧 _Currently improving_
 
 ---
 
 ### 🔹 Lost & Find
 
-Draggable card stack with smooth animations and TS generics
+Draggable card stack with smooth animations and TS generics  
 🔗 https://github.com/mirayatech/image-card-stack
 
 ---
 
 ### 🔹 Blox
 
-Interactive anime gallery with modern UI/UX transitions
+Interactive anime gallery with modern UI/UX transitions  
 🔗 https://github.com/mirayatech/Anime-Scene-Gallery
 
 ---
 
 ### 🔹 DSK Portfolio
 
-Excalidraw-inspired drawing app built using React + TypeScript
+Excalidraw-inspired drawing app built using React + TypeScript  
 🔗 https://github.com/mirayatech/NinjaSketch
 
 ---
 
 ### 🔹 Myntra Clone
 
-UI-focused e-commerce clone with animations
+UI-focused e-commerce clone with animations  
 🔗 https://github.com/mirayatech/halloween-cat-ghost
 
 ---
@@ -136,5 +106,4 @@ UI-focused e-commerce clone with animations
 
 <p align="center">
   ⭐️ *"Code. Build. Improve. Repeat."*
-</p> -->
-```
+</p>
