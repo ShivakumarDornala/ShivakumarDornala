@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Shivakumar</h1>
 <h3 align="center">🚀 Full-Stack Software Engineer |💫 Building Scalable & Impactful Web Apps</h3>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://shivakumardev.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=shivakumar&label=Profile%20views&color=0e75b6&style=for-the-badge" />
-</p>
+</p> -->
 
 ---
 
@@ -103,6 +103,3 @@ UI-focused e-commerce clone with animations
 <p align="center">
   ⭐️ *"Code. Build. Improve. Repeat."* ⭐
 </p>
-
-
-
