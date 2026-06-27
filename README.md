@@ -101,7 +101,7 @@ UI-focused e-commerce clone with animations
 ---
 
 <p align="center">
-  ⭐️ *"Code. Build. Improve. Repeat."*
+  ⭐️ *"Code. Build. Improve. Repeat."* ⭐
 </p>
 
 
