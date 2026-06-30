@@ -1,98 +1,30 @@
-<h1 align="center">Hi 👋, I'm Shivakumar</h1>
-<h3 align="center">🚀 Full-Stack Software Engineer |💫 Building Scalable & Impactful Web Apps</h3>
+<div align="center">
 
----
+# Shivakumar
 
-## 🧠 About Me
+### Full-Stack Software Engineer building scalable, real-world web applications
 
-- 💻 Full-stack developer focused on **performance & scalability**
-- ⚡ Strong in **React, Node.js, and Spring Boot ecosystems**
-- 🎯 I build **real-world applications**, not just demos
-- 📈 Continuously improving through **projects & learning**
+</div>
 
----
+I'm a full-stack developer who cares about performance and scalability more than flashy demos. I work comfortably across the stack — React on the frontend, Node.js and Spring Boot on the backend — and I'm always building something real, learning continuously through hands-on projects rather than just tutorials.
 
-## 🚀 Tech Stack
-
-### 🎨 Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,redux" />
-</p>
-
-### ⚙️ Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express" />
-</p>
-
-### 🗄️ Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### 🛠 Tools & DevOps
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,maven,vercel,netlify,npm,vscode,idea" />
-</p>
-
----
-
-## 📌 Featured Projects
-
-### 🔹 EduTrack
-
-> Smart education tracking system with scalable architecture  
-> 🚧 _Currently improving_
-
----
-
-### 🔹 Lost & Find
-
-Draggable card stack with smooth animations and TS generics  
-🔗 https://github.com/mirayatech/image-card-stack
-
----
-
-### 🔹 Blox
-
-Interactive anime gallery with modern UI/UX transitions  
-🔗 https://github.com/mirayatech/Anime-Scene-Gallery
-
----
-
-### 🔹 DSK Portfolio
-
-Excalidraw-inspired drawing app built using React + TypeScript  
-🔗 https://github.com/mirayatech/NinjaSketch
-
----
-
-### 🔹 Myntra Clone
-
-UI-focused e-commerce clone with animations  
-🔗 https://github.com/mirayatech/halloween-cat-ghost
-
----
-
-## 🏆 Achievements & Focus
-
-- 🧩 Building **end-to-end full-stack systems**
-- ⚡ Writing **clean, maintainable, scalable code**
-- 🧠 Strong grasp of **core JavaScript + backend architecture**
-
----
-
-## ⚡ Fun Side
-
-- 🍳 Cooking is my creative space
-- 🏋️ Gym & fitness mindset
-- 🎬 Movies for inspiration
-
----
+**Frontend:** HTML, CSS, JavaScript, Tailwind, React, Redux
+**Backend:** Java, Spring Boot, Node.js, Express
+**Database:** MongoDB, MySQL
+**Tools:** Git, GitHub, Postman, Maven, Vercel, Netlify, npm, VS Code, IntelliJ IDEA
 
 <p align="center">
-  ⭐️ *"Code. Build. Improve. Repeat."* ⭐
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,redux,java,spring,nodejs,express,mongodb,mysql,git,github,postman,maven,vercel,netlify,npm,vscode,idea" />
 </p>
+
+Among the things I've built: **EduTrack**, a smart education tracking system designed with scalability in mind (still being refined); **[Lost & Find](https://github.com/mirayatech/image-card-stack)**, a draggable card stack with smooth animations and TypeScript generics; **[Blox](https://github.com/mirayatech/Anime-Scene-Gallery)**, an interactive anime gallery with modern UI/UX transitions; **[DSK Portfolio](https://github.com/mirayatech/NinjaSketch)**, an Excalidraw-inspired drawing app made with React and TypeScript; and a **[Myntra Clone](https://github.com/mirayatech/halloween-cat-ghost)**, a UI-focused e-commerce clone with animation polish.
+
+My focus stays consistent across all of it: building end-to-end full-stack systems, writing clean and maintainable code, and deepening my grasp of core JavaScript and backend architecture.
+
+Outside of code, cooking is my creative outlet, the gym keeps my mindset sharp, and movies are a steady source of inspiration.
+
+<div align="center">
+
+**Code. Build. Improve. Repeat.**
+
+</div>
