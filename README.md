@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivakumar</h1>
-<h3 align="center">🚀 Full-Stack Software Engineer | 💻 AI Enginner | 💫 Building Scalable & Impactful Web Apps</h3>
+<h3 align="center">🚀 Full-Stack Software Engineer | 💻 AI Engineer | 💫 Building Scalable & Impactful Web Apps</h3>
 
 ---
 
