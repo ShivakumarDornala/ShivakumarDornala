@@ -76,4 +76,4 @@ UI-focused e-commerce clone with animations
 <p align="center">
   ⭐️ <i>"Code. Build. Improve. Repeat."</i> ⭐️
 </p>
-s
+
