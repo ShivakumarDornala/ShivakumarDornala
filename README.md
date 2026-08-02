@@ -34,7 +34,7 @@ I am a full-stack developer driven by performance, scalability, and robust syste
       <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" />
     </td>
     <td align="left" valign="top" width="25%">
-      <b>Backend</b>
+      <b align="center">Backend</b>
       <br/><br/>
       <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
       <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
