@@ -33,7 +33,7 @@ I am a full-stack developer driven by performance, scalability, and robust syste
       <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
       <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" />
     </td>
-    <td align="center" valign="top" width="25%">
+    <td align="left" valign="top" width="25%">
       <b>Backend</b>
       <br/><br/>
       <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
