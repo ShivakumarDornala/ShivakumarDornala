@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Shivakumar</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:06b6d4&height=220&section=header&text=Hi%20👋,%20I'm%20Shivakumar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+</p>
+
 <h3 align="center">🚀 Full-Stack Software Engineer | 💻 AI Engineer | 💫 Building Scalable & Impactful Web Apps</h3>
 
 <p align="center">
@@ -93,4 +96,8 @@ I am a full-stack developer driven by performance, scalability, and robust syste
 
 <p align="center">
   ⭐️ <i>"Code. Build. Improve. Repeat."</i> ⭐️
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:6366f1&height=120&section=footer" width="100%"/>
 </p>
