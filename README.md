@@ -9,12 +9,6 @@
 🚀 Full-Stack Software Engineer | 💻 AI Engineer | 💫 Building Scalable & Impactful Web Apps
 </h3>
 
-<p>
-  <a href="https://github.com/mirayatech">
-    <img src="https://img.shields.io/github/followers/mirayatech?label=Follow&style=social" alt="GitHub Followers">
-  </a>
-</p>
-
 </div>
 
 ---
