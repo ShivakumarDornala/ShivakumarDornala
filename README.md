@@ -1,20 +1,29 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:06b6d4&height=220&section=header&text=Hi%20👋,%20I'm%20Shivakumar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
-</p>
+<div align="center">
 
-<h3 align="center">🚀 Full-Stack Software Engineer | 💻 AI Engineer | 💫 Building Scalable & Impactful Web Apps</h3>
+<!-- 🌌 Cosmic Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:1e1b4b&height=220&section=header&text=Shivakumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Software%20Engineer%20%7C%20AI%20Engineer&descAlignY=55&descSize=18" />
 
-<p align="center">
+<h1>👋 Hi, I'm Shivakumar</h1>
+
+<h3>
+🚀 Full-Stack Software Engineer | 💻 AI Engineer | 💫 Building Scalable & Impactful Web Apps
+</h3>
+
+<p>
   <a href="https://github.com/mirayatech">
     <img src="https://img.shields.io/github/followers/mirayatech?label=Follow&style=social" alt="GitHub Followers">
   </a>
 </p>
 
+</div>
+
 ---
 
-### 🧠 About Me
+## 🌌 About Me
 
-I am a full-stack developer driven by performance, scalability, and robust system design over flashy demos. Deeply rooted in the **React, Node.js, and Spring Boot** ecosystems, I focus on building real-world applications that solve actual problems. I believe in continuous growth through hands-on architecture, continuous shipping, and learning by doing.
+I am a full-stack developer driven by performance, scalability, and robust system design over flashy demos. Deeply rooted in the **React, Node.js, and Spring Boot** ecosystems, I focus on building real-world applications that solve actual problems.
+
+I believe in continuous growth through hands-on architecture, continuous shipping, and learning by doing.
 
 - 🔭 **Currently focusing on:** Full-Stack & AI Systems Architecture
 - ⚡ **Core Philosophy:** Clean code, modular design, and measurable performance
@@ -22,7 +31,7 @@ I am a full-stack developer driven by performance, scalability, and robust syste
 
 ---
 
-### 🚀 Tech Stack
+## 🚀 Tech Stack
 
 <table align="center" width="100%">
   <tr>
@@ -36,6 +45,7 @@ I am a full-stack developer driven by performance, scalability, and robust syste
       <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
       <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" />
     </td>
+
     <td align="center" valign="top" width="25%">
       <b>Backend</b>
       <br/><br/>
@@ -44,12 +54,14 @@ I am a full-stack developer driven by performance, scalability, and robust syste
       <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
       <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
     </td>
+
     <td align="center" valign="top" width="25%">
       <b>Databases</b>
       <br/><br/>
       <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
       <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
     </td>
+
     <td align="center" valign="top" width="25%">
       <b>Tools & DevOps</b>
       <br/><br/>
@@ -61,12 +73,13 @@ I am a full-stack developer driven by performance, scalability, and robust syste
       <img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify" />
       <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
     </td>
+
   </tr>
 </table>
 
 ---
 
-### 📌 Featured Projects
+## 🪐 Featured Projects
 
 | Project           | Description                                                                         | Tech / Highlight           |                              Link                               |
 | :---------------- | :---------------------------------------------------------------------------------- | :------------------------- | :-------------------------------------------------------------: |
@@ -78,7 +91,7 @@ I am a full-stack developer driven by performance, scalability, and robust syste
 
 ---
 
-### 🏆 Engineering Focus
+## 🛰️ Engineering Focus
 
 - 🧩 **End-to-End Engineering:** Crafting seamlessly connected frontend and backend microservices.
 - ⚡ **Code Quality:** Writing clean, testable, and maintainable functional code.
@@ -86,7 +99,7 @@ I am a full-stack developer driven by performance, scalability, and robust syste
 
 ---
 
-### ⚡ Beyond the Code
+## 🌠 Beyond the Code
 
 - 🍳 **Culinary Arts:** Cooking is my favorite creative outlet outside of programming.
 - 🏋️ **Fitness:** Hit the gym regularly to stay disciplined and sharp.
@@ -94,10 +107,11 @@ I am a full-stack developer driven by performance, scalability, and robust syste
 
 ---
 
-<p align="center">
-  ⭐️ <i>"Code. Build. Improve. Repeat."</i> ⭐️
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:6366f1&height=120&section=footer" width="100%"/>
-</p>
+<!-- 🌌 Cosmic Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:0f172a,100:020617&height=120&section=footer" />
+
+⭐️ <i>"Code. Build. Improve. Repeat."</i> ⭐️
+
+</div>
