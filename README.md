@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivakumar</h1>
 <h3 align="center">🚀 Full-Stack Software Engineer | 💻 AI Engineer | 💫 Building Scalable & Impactful Web Apps</h3>
 
-<p align="center">
-  <a href="https://github.com/mirayatech">
-    <img src="https://img.shields.io/github/followers/mirayatech?label=Follow&style=social" alt="GitHub Followers">
-  </a>
-</p>
-
 ---
 
 ### 🧠 About Me
